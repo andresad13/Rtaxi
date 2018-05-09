@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245672897017",
+    "firebase_url": "https://rtaxi-8e21f.firebaseio.com",
+    "project_id": "rtaxi-8e21f",
+    "storage_bucket": "rtaxi-8e21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245672897017:android:d24f8e42f6f611f1",
+        "android_client_info": {
+          "package_name": "co.com.autolagos.rtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245672897017-7n47g4llsldhuqbl2i2heo9j3n2ph6l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.autolagos.rtaxi",
+            "certificate_hash": "2d8d47369df364a792a5d91bb21c449bf1b14706"
+          }
+        },
+        {
+          "client_id": "245672897017-ruq5bhqpfk6mcu7phg7pomnj9r9bl0pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguiL33K3Mpw9jUPrKRZFq1VWYR82dbx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245672897017-ruq5bhqpfk6mcu7phg7pomnj9r9bl0pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
