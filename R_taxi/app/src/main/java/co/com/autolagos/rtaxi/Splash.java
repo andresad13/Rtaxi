@@ -19,6 +19,7 @@ public class Splash extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         ImageView logo_Splash = (ImageView) findViewById(R.id.Logo_splash);
 
+
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
